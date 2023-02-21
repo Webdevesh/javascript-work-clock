@@ -16,3 +16,7 @@
 .workTime-disabled {
     display: none;
 }
+
+#ms{
+    text-align:center;
+}
